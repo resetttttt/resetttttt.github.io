@@ -1,3 +1,3 @@
 # resetttttt.github.io
-AMD IOMMU
-theme: jekyll-theme-hacker
+这是RT6的博客
+Here is blogs of RT6.
